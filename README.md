@@ -1,2 +1,5 @@
 # CloseAllActivities
 一个演示关闭所有Activity示例
+
+
+在类Activity3中使用了两种方案来实现释放Activity历史。
