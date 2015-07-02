@@ -1,0 +1,2 @@
+# CloseAllActivities
+一个演示关闭所有Activity示例
